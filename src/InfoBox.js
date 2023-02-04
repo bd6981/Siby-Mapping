@@ -1,5 +1,5 @@
 import React from "react";
-import "./map.css";
+import "./Map.css";
 
 const InfoBox = ({ info }) => {
   return (
